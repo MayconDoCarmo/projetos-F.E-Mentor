@@ -40,7 +40,7 @@ p{
   
 }
 #cardImage{
-  background-image: url(/img/image-qr-code.png);
+  background-image: url(https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-INICIANTE/QR-code-component/img/image-qr-code.png);
   background-size: cover;
   margin: auto;
   border-radius: 10px;
