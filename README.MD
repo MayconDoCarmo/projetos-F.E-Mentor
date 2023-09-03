@@ -28,7 +28,7 @@ Esse desafio pode ser encontrado em Frontend Mentor: <a src="https://www.fronten
 
 #### Screenshots
 
-Acesse a <a src="">minha resolução</a>.
+Acesse a <a src="https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-INICIANTE/QR-code-component/src/index.html">minha resolução</a>.
 
 <p align="center">
     <img src="/README-IMG/QR-CODE-COMPONENT.png" width="60%" align="top">
