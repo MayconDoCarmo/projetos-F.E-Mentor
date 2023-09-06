@@ -1,0 +1,59 @@
+@font-face {
+  font-family: Myfont;
+  src: url(/fonts/Roboto-Regular.ttf);
+}
+body{
+  font-family: Myfont;
+  margin: 0;
+}
+*{
+  box-sizing: border-box;
+}
+.conteiner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+  background: hsl(234, 29%, 20%);
+}
+.card{
+  display: flex;
+  width: 700px;
+  background: white;
+  padding: 20px;
+  border-radius: 20px;
+}
+.campo-texto{
+  width: 60%;
+ 
+}
+.campo-img{
+  width: 40%;
+}
+.campo-img img{
+  width: 100%;
+}
+ul{
+  list-style-image: url(/img/icon-list.svg);
+}
+li{
+  margin-bottom: 10px;
+}
+.formulario{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+.formulario input{
+  padding: 10px;
+  font-family: inherit;
+  border-radius: 5px;
+  border: 1px solid hsl(231, 7%, 60%);
+}
+.formulario button{
+  font-family: inherit;
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: none
+}
