@@ -17,12 +17,15 @@ body{
   min-height: 100vh;
   background: hsl(234, 29%, 20%);
 }
-.card{
+.box{
   display: flex;
-  width: 700px;
+  width: 800px;
   background: white;
-  padding: 20px;
+  padding: 30px;
   border-radius: 20px;
+}
+h1{
+  font-size: 50px;
 }
 .campo-texto{
   width: 60%;
@@ -45,6 +48,10 @@ li{
   flex-direction: column;
   width: 300px;
 }
+label{
+  margin-bottom: 5px;
+  font-family: inherit;
+}
 .formulario input{
   padding: 10px;
   font-family: inherit;
@@ -54,6 +61,39 @@ li{
 .formulario button{
   font-family: inherit;
   margin-top: 20px;
-  padding: 10px 20px;
-  border: none
+  padding: 15px 20px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  background-color: hsl(235, 18%, 26%);
+  cursor: pointer;
+}
+.esconder{
+  display: none;
+}
+.box-2 {
+  background: white;
+  width: 400px;
+  padding: 40px;
+  border-radius: 40px;
+}
+.box-2 button{
+  font-family: inherit;
+  background:hsl(235, 18%, 26%);
+  color: white;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 15px 20px;
+  border: none;
+  width: 100%;
+  cursor: pointer;
+}
+.box-2 button:hover{
+  background: hsl(4, 100%, 67%);
+}
+.box-2 h1{
+  font-size: 40px;
+}
+.icone-sucesso{
+  width: 50px;
 }
