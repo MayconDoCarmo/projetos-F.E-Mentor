@@ -16,7 +16,7 @@
 ## 📖 Sumário
 
 • [QR-CODE-COMPONENT](#qr-code-component) <br>
-• [NEWSLETTER SIGN-UP FORM](#Newsletter sign-up form)
+• [NEWSLETTER SIGN-UP FORM](#Newsletter-sign-up-form)
 
 <BR>
 
@@ -32,7 +32,7 @@ Esse desafio pode ser encontrado em Frontend Mentor: <a href="https://www.fronte
 Acesse a <a href="https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-JUNIOR/QR-code-component/src/index.html">minha resolução</a>.
 
 <p align="center">
-    <img src="/README-IMG/QR-CODE-COMPONENT.png" width="60%" align="top">
+    <img src="./README-IMG/QR-CODE-COMPONENT.png" width="60%" align="top">
 </p>
 
 <p>Habilidades utilizadas 🔨
@@ -49,17 +49,17 @@ Esse desafio pode ser encontrado em Frontend Mentor: <a href="https://www.fronte
 
 #### Screenshots
 
-Acesse a <a href="https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-JUNIOR/Newsletter-sign-up-form/index.html">minha resolução</a>.
+Acesse a <a href="https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-JUNIOR/Newsletter%20sign-up%20form/index.html">minha resolução</a>.
 
 <p align="center">
-    <img src="/README-IMG/Newsletter sign-up form GIF DESKTOP.gif" width="60%" heigth="898px" align="top">
-    <img src="/README-IMG/Newsletter sign-up form GIF mobile.gif" width="30%" heigth="898px" align="top">
+    <img src="./README-IMG/Newsletter sign-up form GIF DESKTOP.gif" width="44%"  align="top">
+    <img src="./README-IMG/Newsletter sign-up form GIF mobile.gif" width="16%"  align="top">
 </p>
 
 <p>Habilidades utilizadas 🔨
  <br>
 •<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> HTML</a> <br>
-•<a herf="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS</a> <br>
+•<a herf="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS [FLEXBOX]</a> <br>
 •<a herf="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript"> JAVASCRIPT</a>
 </p>
 <br>
