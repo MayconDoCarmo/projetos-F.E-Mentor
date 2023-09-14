@@ -53,7 +53,7 @@ Acesse a <a href="https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-JUNI
 
 <p align="center">
     <img src="/README-IMG/Newsletter sign-up form GIF DESKTOP.gif" width="60%" heigth="898px" align="top">
-    <img src="/README-IMG/Newsletter sign-up form GIF mobile.gif" width="30%" align="top">
+    <img src="/README-IMG/Newsletter sign-up form GIF mobile.gif" width="30%" heigth="898px" align="top">
 </p>
 
 <p>Habilidades utilizadas 🔨
