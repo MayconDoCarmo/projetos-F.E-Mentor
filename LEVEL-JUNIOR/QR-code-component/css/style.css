@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+body{
+  font-family: 'Outfit', sans-serif;
+  margin: 0;
+}
+p{
+  font-size: 12px;
+  font-weight: 400;
+}
+#conteiner{
+  background-color: hsl(212, 45%, 89%);
+  width:100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#card{
+  background-color: hsl(0, 0%, 100%);
+  box-sizing: border-box;
+  text-align: center;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 5px 10px 25px;
+  width: 280px;
+  height: 400px;
+
+}
+#text{
+  margin-top: 25px;
+  width: 200px;
+  margin: auto;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+#headl{
+  font-weight: 700;
+  font-size: 15px;
+  
+}
+#cardImage{
+  background-image: url(https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-INICIANTE/QR-code-component/img/image-qr-code.png);
+  background-size: cover;
+  margin: auto;
+  border-radius: 10px;
+  width: 250px;
+  height: 250px;
+
+}
