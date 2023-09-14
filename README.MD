@@ -15,7 +15,8 @@
 
 ## 📖 Sumário
 
-• [QR-CODE-COMPONENT](#qr-code-component)
+• [QR-CODE-COMPONENT](#qr-code-component) <br>
+• [NEWSLETTER SIGN-UP FORM](#qr-code-component)
 
 <BR>
 
@@ -39,3 +40,26 @@ Acesse a <a href="https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-INIC
 •<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> HTML</a> <br>
 •<a herf="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS</a>
 </p>
+<br>
+
+### Newsletter sign-up form
+
+Nível de dificuldade = **Junior**<br> <br>
+Esse desafio pode ser encontrado em Frontend Mentor: <a href="https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv">Newsletter sign-up form </a>
+
+#### Screenshots
+
+Acesse a <a href="https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-INICIANTE/QR-code-component/src/index.html">minha resolução</a>.
+
+<p align="center">
+    <img src="/README-IMG/Newsletter sign-up form GIF DESKTOP.gif" width="50%" align="top">
+    <img src="/README-IMG/Newsletter sign-up form GIF mobile.gif" width="30%" align="top">
+</p>
+
+<p>Habilidades utilizadas 🔨
+ <br>
+•<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> HTML</a> <br>
+•<a herf="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS</a> <br>
+•<a herf="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript"> JAVASCRIPT</a>
+</p>
+<br>
