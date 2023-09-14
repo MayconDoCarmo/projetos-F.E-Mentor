@@ -37,7 +37,7 @@ h1{
   width: 100%;
 }
 ul{
-  list-style-image: url(/img/icon-list.svg);
+  list-style-image: url(https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-JUNIOR/Newsletter%20sign-up%20form/img/icon-list.svg);
 }
 li{
   margin-bottom: 10px;
@@ -127,7 +127,7 @@ button:hover {
     margin-top: 40px;
   }
   .campo-img img{
-    content: url(/img/illustration-sign-up-mobile.svg);
+    content: url(https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-JUNIOR/Newsletter%20sign-up%20form/img/illustration-sign-up-mobile.svg);
     height: 90%;
   }
   ul li{
