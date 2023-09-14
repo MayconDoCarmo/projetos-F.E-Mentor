@@ -59,7 +59,7 @@ Acesse a <a href="https://maycondocarmo.github.io/projetos-F.E-Mentor/LEVEL-JUNI
 <p>Habilidades utilizadas 🔨
  <br>
 •<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> HTML</a> <br>
-•<a herf="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS [FLEXBOX]</a> <br>
-•<a herf="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript"> JAVASCRIPT</a>
+•<a herf="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS [Flexbox]</a> <br>
+•<a herf="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript"> JAVASCRIPT [RegEx]</a>
 </p>
 <br>
