@@ -10,22 +10,29 @@
 <body>
   <div class="conteiner">
     <div class="card">
-      <form class="form-calc">
-        <label>DIA<input type="number" name="number-dia" id="form-dia"></label>
-        <label>MÊS<input type="number" name="number-mes" id="form-mes"></label>
-        <label>ANO<input type="number" name="number-ano" id="form-ano"></label>
-        <hr>
-        <button type="submit" id="arrow-button"></button>
+      <form>
+        <div class="form-calc">
+          <label>DIA<input type="number" name="number-dia" class="forms"></label>
+          <label>MÊS<input type="number" name="number-mes" class="forms"></label>
+          <label>ANO<input type="number" name="number-ano" class="forms"></label>
+        </div>
+        <div class="campo-botao">
+          <button type="submit" id="arrow-button">
+            <img src="./assets/images/icon-arrow.svg" alt="botao">
+          </button>
+          <div class="horizontal-ln">
+          </div>
+        </div>
       </form>
       <div class="age-calc">
         <div class="campo-ano">
-          <span id="ano">--</span><p>Anos</p>
+          <h1><span class="campo-calc ano">--</span>Anos</h1>
         </div>
         <div class="campo-mes">
-          <span id="mes">--</span><p>Mes</p>
+          <h1><span class="campo-calc mes">--</span>Mes</h1>
         </div>
         <div class="campo-dia">
-          <span id="dia">--</span>
+          <h1><span class="campo-calc dia">--</span>Dia</h1>
         </div>
         </div>
       </div>
