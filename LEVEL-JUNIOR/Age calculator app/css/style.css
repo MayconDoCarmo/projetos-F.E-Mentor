@@ -1,0 +1,102 @@
+@font-face {
+  font-family: "Poppins";
+  src: 
+    url(../assets/fonts/Poppins-Regular.ttf),
+    url(../assets/fonts/Poppins-ExtraBoldItalic.ttf),
+    url(../assets/fonts/Poppins-Bold.ttf),
+    url(../assets/fonts/Poppins-BoldItalic.ttf);
+}
+*{
+  font-family: "Poppins";
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+.conteiner{
+  width: 100vw;
+  height: 100vh;
+  background: hsl(0, 0%, 94%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  translate: (-50%);
+}
+.card{
+  background:hsl(0, 0%, 100%) ;
+  padding: 30px;
+  margin: 10px;
+  width: 650px;
+  min-width: 375px;
+  border-radius: 22px 22px 110px;
+}
+.form-calc{
+  display: flex;
+  flex-direction:row;
+  justify-content:flex-start;
+  gap: 30px;
+}
+.form-calc label{
+  color: hsl(0, 1%, 44%);
+  font-weight: 400;
+}
+.forms{
+  display: block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 110px;
+  border: 1px solid hsl(0, 0%, 86%);
+  border-radius: 10px;
+  font-size: 32px;
+  font-weight: 400;
+}
+.campo-botao{
+  position: relative;
+}
+#arrow-button{
+  background:hsl(259, 100%, 65%);
+  border-radius: 50px;
+  border:none;
+  padding: 10px;
+  cursor: pointer;
+  position: absolute;
+  right: 1%;
+}
+#arrow-button:hover{
+  background:hsl(0, 0%, 8%);
+}
+.campo-botao::before{
+  background-color: hsl(0, 0%, 86%);
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  width: 100%;
+  right: 0.5em;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.age-calc{
+  display: flex;
+  flex-direction: column;
+  font-weight: 800;
+  font-size: 32px;
+  font-style: italic;
+}
+.campo-calc{
+  color:hsl(259, 100%, 65%);
+}
+@media (max-width: 540px){
+  #arrow-button{
+    right: 40%;
+  }
+  .forms{
+    margin-bottom: 35px;
+    width: 100%;
+  }
+  .age-calc{
+    margin-top: 30px;
+  }
+
+}
+
